@@ -1,3 +1,5 @@
 ## Finding Mavis
 
-- [Slots](./Slots.pdf)
+- [slots](./slots.pdf)
+- [shows](./shows.pdf)
+- [How to Get Curious](./curious.pdf)

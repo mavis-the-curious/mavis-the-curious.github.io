@@ -1,0 +1,20 @@
++title: The Fundamental Truths
++author: mavis
+
+These truths can save you a lot of trouble and misery.
+
+* Happiness is in you. It doesn't have to depend on outcomes.
+* Life is a journey. You will always have problems. Living your life is how you deal with them.
+* To succeed we must embrace all realities. Especially harsh realities.
+* Quotes
+#+begin_quote
+Truth is the essential foundation for producing good outcomes. By truth I don't mean
+anything more than the way the world works.
+- Ray Dalio
+#+end_quote
+
+#+begin_quote
+I now see that time is like a river that carries us forward into encounters with reality
+that require us to make decisions. We can't stop our movement down this river, and we
+can't avoid the encounters. We can only approach them in the best possibe way.
+#+end_quote
